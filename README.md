@@ -1,9 +1,9 @@
 ## Yo! 👋
 
-## I'm Brent! 
-## I'm a 19yo software developer, and I've been programming for the better part of 10 years
+### I'm Brent! 
+### I'm a 19yo software developer, and I've been programming for the better part of 10 years
 
-## Currently working on 
+### Currently working on 
 
 <!--
 **BrentLoaf/BrentLoaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
