@@ -1,7 +1,12 @@
 ## Yo! 👋
 
-### I'm Brent! 
-I'm a 19yo software developer, and I've been programming for the better part of 10 years
+I'm Brent! a 19yo software developer, and I've been programming for the better part of 10 years
+
+My current main focus is expanding my Java knowledge and maybe picking up a few skills on the way, e.g:
+- ☐ Learn how to use SpringBoot and making a project with it
+- ☐ Understand app development better and try to make a personal workout app with backend accounts
+- ☐ Make my own portfolio site from the ground up by learnign HTML and CSS
+- ☐ Develop my own game in [Java](https://youtu.be/w79nuSSSF_8?t=43) with JMonkeyEngine
 
 
 <!--
