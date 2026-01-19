@@ -21,6 +21,7 @@ All of these libs I've developed are designed to hook into each other and depend
 But compressing a few thousand lines of code per item with powers into sometimes less than a hundred was 100% worth it.
 
 
+
 What I'm currently up to:
 
 - ☐ Building a backend system using SpringBoot
