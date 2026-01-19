@@ -3,7 +3,7 @@
 I'm Brent! a 19yo software developer, and I've been programming for the better part of 10 years
 
 
-The tools I use are largely what I've developed on my own, especially in Minecraft plugins:
+### The tools I use are largely what I've developed on my own, especially in Minecraft plugins:
 
 - ItemLib: A library that makes custom items easier to make with little to no boilerplate
   - In plugins, custom items are probably one of the most common ideas right next to minigames.
@@ -22,13 +22,13 @@ But compressing a few thousand lines of code per item with powers into sometimes
 
 
 
-What I'm currently up to:
+### What I'm currently up to:
 
 - ☐ Building a backend system using SpringBoot
 - ☐ Developing a workout app with Flutter/Dart with a backend system to manage accounts and databases
 
 
-For the future:
+### For the future:
 
 - ☐ Construct a Minecraft plugin that allows users to make their own currencies, exchange between them, and maybe even hook into it with a bot
   - Why a Minecraft plugin? Perfect community to test my systems in their own customized way, plus I'd get to learn more about economics
